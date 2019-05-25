@@ -9942,6 +9942,14 @@ msgstr "牛顿路线图"
 msgid "Newton's Process"
 msgstr "牛顿的发展历程"
 
+#: web/apps/welcome/templates/welcome/include-Newtax.html:13
+msgid "NEW earned from Newton DApp Ecosystem makes NewTax. NEW from NewTax will release to NewPool for Newton community economy incentives. The release time and the usage of NewTax will be announced in the future."
+msgstr "牛顿DApp生态经济所产生的NEW收入都将流入NewTax。此部分的NEW将会在未来释放到NewPool中，为社群经济提供激励。NewTax具体的释放时间以及方式将会在未来公布。"
+
+#: web/apps/welcome/templates/welcome/include-Newtax.html:17
+msgid "Address："
+msgstr "地址："
+
 #~ msgid ""
 #~ "Lee is Founding President of the World Blockchain Foundation, winner of "
 #~ "2017 World’s Best Brands Award and Co-founding Director of Blockchainzoo. "
